@@ -39,3 +39,6 @@ FORMS += \
 
 RESOURCES += \
     resource.qrc
+
+DISTFILES += \
+    images/about.png
